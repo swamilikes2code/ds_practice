@@ -169,3 +169,5 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+datasets/titanic.tgz
+images/end_to_end_project/decision_tree.png
